@@ -18,7 +18,7 @@ yarn preview
 
 ## Deploy to GitHub Pages
 
-The GitHub Actions workflow in `.github/workflows/deploy.yml` builds and publishes the site whenever a commit reaches `main`. The Vite base path is configured for the `xavier-mejia-portfolio` repository.
+The GitHub Actions workflow in `.github/workflows/deploy.yml` builds and publishes the site whenever a commit reaches `main`. The Vite base path is configured for the `portfolio` repository.
 
 GitHub Pages serves the site publicly. GitHub Free supports Pages from public repositories; publishing from a private repository requires a supported paid plan. If the repository is private and the account does not support Pages for private repositories, keep the site public by changing the repository visibility, or use a Pages-capable plan.
 
